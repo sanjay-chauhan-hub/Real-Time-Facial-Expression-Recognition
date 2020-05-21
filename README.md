@@ -25,21 +25,3 @@ We have downloaded data from 4 different sources.<br>
 ## How to Run the Model
 After downloading data from the aforementioned sources you have to structure the data into separate folders corresponding to the seven class labels. Then you can use the code in the file "FacialExpressionRecognition.ipynb" to train the model. You can add or delete layers in MLP part of the model based on your data and results. Don't forget to save your model after each epoch. 
 Then for real time prediction you can run the file "Real_Time_Prediction.ipynb".
-## Prerequisites
-You need to have installed following softwares and libraries in your machine before running this project.
-1. Python 3
-2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy, PIL.
-3. OpenCV
-4. keras
-## Installing
-1. Python 3: https://www.python.org/downloads/
-2. Anaconda: https://www.anaconda.com/download/
-3. OpenCV: pip install opencv-python
-4. Keras: pip install keras
-## Built With
-* ipython-notebook - Python Text Editor
-* OpenCV - It is used for processing images
-* Keras - Deep Learning Library
-* Sklearn: It is a Machine Learning library but here it is used just to calculate accuracy and confusion matrix.
-## Authors
-* Gaurav Sharma - Complete work  
