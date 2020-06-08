@@ -1,7 +1,5 @@
 # Real Time Facial Expression Recognition
-![blog_picture](https://user-images.githubusercontent.com/26830527/48616166-15341800-e993-11e8-9d25-1d1145a6b87d.png)
-## Check out my blog on this case study at the following link:
-https://medium.com/@gauravsharma2656/real-time-facial-expression-recognition-f860dacfeb6a
+
 ## Description
 Computer animated agents and robots bring new dimension in human computer interaction which makes it vital as how computers can affect our social life in day-to-day activities. Face to face communication is a real-time process operating at a a time scale in the order of milliseconds. The level of uncertainty at this time scale is considerable, making it necessary for humans and machines to rely on sensory rich perceptual primitives rather than slow symbolic inference processes.<br><br>
 In this project we are presenting the real time facial expression recognition of seven most basic human expressions: ANGER, DISGUST, FEAR, HAPPY, NEUTRAL SAD, SURPRISE.<br><br>
